@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Event Management Web App- build with React Js, Node Js, MongoDB (Atlas), GraphQL
 
 ## Available Scripts
 
